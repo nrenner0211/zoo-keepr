@@ -10,7 +10,7 @@ Excellent example of file organization.
 
 ## Links
 
-[Deployed - GitHub](https://nrenner0211.github.io/zoo-keepr/)
+[Repository - GitHub](https://github.com/nrenner0211/zoo-keepr)
 
 ## Tests
 
